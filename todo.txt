@@ -1,0 +1,5 @@
+TODO:
+make mr. richbonk vip ~ DONE
+auto upgrade to vip when btc > 0.9999 ~ DONE
+patch IDOR bug reported by rabbit_h013x01 ~ DONE
+patch weak algorithm ~ Pending
