@@ -1,0 +1,7 @@
+TODO:
+	make user richbonk VIP ~ DONE
+	auto upgrade to VIP when btc > 0.9999 ~ DONE
+	Cap transactions > 1 btc to 1 btc ~ DONE
+	patch IDOR reported by rabbit_h013x01 ~ DONE
+	patch weak algorithm ~ Pending
+	sanitize parameters ~ Pending
